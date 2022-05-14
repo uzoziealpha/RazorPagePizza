@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Sirine\source\repos\WebPizzaApp\WebPizzaApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Sirine/source/repos/WebPizzaApp/WebPizzaApp/Pages/Checkout/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Sirine/source/repos/WebPizzaApp/WebPizzaApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
