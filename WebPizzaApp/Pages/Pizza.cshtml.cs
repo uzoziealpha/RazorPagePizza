@@ -16,6 +16,8 @@ namespace WebPizzaApp.Pages
                Marinara=true,
                Cheese=true,
                FinalPrice=4},
+
+
            new PizzasModel() {ImageTitle = "Bolognese", PizzaName = "Bolognese", BasePrice = 2, Marinara=true, Cheese = true, Beef = true, FinalPrice = 5 },
            new PizzasModel() {ImageTitle = "Hawaiian", PizzaName = "Hawaiian", BasePrice = 2, Marinara=true, Cheese = true, Beef = true, FinalPrice = 5 },
            new PizzasModel() {ImageTitle = "Carbonara", PizzaName = "Carbonara", BasePrice = 2, Marinara=true, Cheese = true, Beef = true, FinalPrice = 5 },
