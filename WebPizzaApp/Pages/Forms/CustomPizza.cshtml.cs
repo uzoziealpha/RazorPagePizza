@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using WebPizzaApp.Models;
+using WebPizzaApp.Model;
 
 namespace WebPizzaApp.Pages.Forms
 {

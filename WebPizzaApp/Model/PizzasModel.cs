@@ -1,4 +1,4 @@
-﻿namespace WebPizzaApp.Models
+﻿namespace WebPizzaApp.Model
 {
     public class PizzasModel
     {
